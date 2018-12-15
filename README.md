@@ -1,0 +1,1 @@
+设置countdown.js文件中的endTime参数时间后，方可观看效果。
